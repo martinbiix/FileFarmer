@@ -6,7 +6,7 @@
 function attachHandlers(app, config) {
 	// index
 	app.get('/', function (request, response) {
-		logger.log('[-] Received a request for ' + request.url);
+		console.log('[-] Received a request for ' + request.url);
 		response.render('home.jade');
 	});
 }
