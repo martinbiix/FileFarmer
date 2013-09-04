@@ -1,0 +1,18 @@
+{
+    "name": "filefarmer",
+    "version": "0.0.1",
+    "author": {
+        "name": "Brenton Morris",
+        "email": "brenton.smorris@gmail.com"
+    },
+    "engines": {
+        "node": "0.10.12"
+    },
+    "dependencies": {
+        "express": "3.3.1",
+        "mongodb": "1.3.10",
+        "sockjs": "0.3.7",
+	    "jade": "0.35.0",
+        "redis": "*"
+    }
+}
