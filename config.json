@@ -1,6 +1,6 @@
 {
 	"public_dir":"public/",
 
-	"http_host":"localhost",
+	"http_host":"104.131.161.28",
 	"http_port":"8080"
 }
